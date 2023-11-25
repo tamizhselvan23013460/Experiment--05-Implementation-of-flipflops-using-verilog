@@ -135,6 +135,7 @@ RegisterNumber:23001663
 ## JK flipflop:
 ![jkff wave](https://github.com/dharshan7200/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138850116/b0411433-6a9c-45fd-b5c6-125ae0860a04)
 ## SR flipflop:
+![image](https://github.com/dharshan7200/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138850116/8123d4e3-6185-4ada-962e-915f4bb72c0b)
 
 ### RESULTS 
 Thus implementation of SR,JK,D and T flipflops using nand gates are done sucessfully.
