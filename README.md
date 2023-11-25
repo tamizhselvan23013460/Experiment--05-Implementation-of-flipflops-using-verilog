@@ -107,36 +107,34 @@ Q(t+1)=T′Q(t)+TQ(t)′
 
 
 ### PROGRAM 
-```
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-module T (T,Clock,Q,Qbar);
-input T,Clock;
-output Q,Qbar;
-wire A,B;
-nand (A,T,Clock,Qbar);
-nand (B,T,Clock,Q);
-nand (Q,A,Qbar);
-nand (Qbar,B,Q);
-endmodule
-```
-
-
-
-### RTL LOGIC FOR FLIPFLOPS 
-
-
-
-
-
-
-
-
-
-### TIMING DIGRAMS FOR FLIP FLOPS 
-
-
+Developed by: DHARSHAN D
+RegisterNumber:23001663
+## T flipflop:
+![Tflip flop code](https://github.com/dharshan7200/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138850116/7ae8b592-12a8-42f8-b4d7-95c1ddcc284b)
+## D flipflop:
+![dff code](https://github.com/dharshan7200/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138850116/9f2babb2-acc6-4e99-8c7b-e633358583fe)
+## JK flipflop:
+![jkff code](https://github.com/dharshan7200/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138850116/16125a0b-ac93-4f09-8b7f-eb93a53bd4fb)
+## SR flipflop:
+![srff code](https://github.com/dharshan7200/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138850116/ca9d39c2-464b-4869-b59c-71e39dc45e05)
+### RTL LOGIC FOR FLIPFLOPS:
+## T fliflop:
+![Tflip flop gate](https://github.com/dharshan7200/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138850116/38f0ad86-816d-4eee-ba73-4721d9cc901e)
+## D flipflop:
+![dff code](https://github.com/dharshan7200/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138850116/688505ea-fa5d-46e9-aba3-66235ad946f6)
+## JK flipflop:
+![jkff gate](https://github.com/dharshan7200/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138850116/bd65eda3-6eb9-4e91-9d38-b2501468c74d)
+## SR flipflop:
+![srff gate](https://github.com/dharshan7200/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138850116/4c9f27e5-7250-4289-aeb3-bbf75a6bbd6f)
+### TIMING DIGRAMS FOR FLIP FLOPS :
+## T flipflop:
+![tflip flop line](https://github.com/dharshan7200/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138850116/4a437720-48b6-41bc-9550-0c50b6842cf4)
+## D flipflop:
+![dff wave](https://github.com/dharshan7200/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138850116/b32674c7-26b7-4fa8-b17e-dd785783a3e4)
+## JK flipflop:
+![jkff wave](https://github.com/dharshan7200/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138850116/b0411433-6a9c-45fd-b5c6-125ae0860a04)
+## SR flipflop:
 
 
 
