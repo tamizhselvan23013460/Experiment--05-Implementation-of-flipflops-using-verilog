@@ -122,7 +122,7 @@ RegisterNumber:23001663
 ## T fliflop:
 ![Tflip flop gate](https://github.com/dharshan7200/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138850116/38f0ad86-816d-4eee-ba73-4721d9cc901e)
 ## D flipflop:
-![dff code](https://github.com/dharshan7200/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138850116/688505ea-fa5d-46e9-aba3-66235ad946f6)
+![dff](https://github.com/dharshan7200/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138850116/a8cd9d32-4a63-4255-9005-b5cea209c703)
 ## JK flipflop:
 ![jkff gate](https://github.com/dharshan7200/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138850116/bd65eda3-6eb9-4e91-9d38-b2501468c74d)
 ## SR flipflop:
