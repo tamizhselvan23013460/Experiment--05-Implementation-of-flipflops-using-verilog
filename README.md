@@ -131,7 +131,7 @@ RegisterNumber:23001663
 ## T flipflop:
 ![tflip flop line](https://github.com/dharshan7200/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138850116/4a437720-48b6-41bc-9550-0c50b6842cf4)
 ## D flipflop:
-![dff wave](https://github.com/dharshan7200/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138850116/b32674c7-26b7-4fa8-b17e-dd785783a3e4)
+![dff wave](https://github.com/dharshan7200/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138850116/9e2ee033-f0f6-4759-a694-5daf1426bd48)
 ## JK flipflop:
 ![jk wave crt](https://github.com/dharshan7200/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138850116/80feda01-fac9-4a0e-96f9-901f9713dcbc)
 ## SR flipflop:
